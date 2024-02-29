@@ -1,0 +1,2 @@
+  101     Dhaka      Muhammadpur    1500           15000     room-3,Toilet-3,Kitchen-1
+  102     Dhaka      mirpur    1300           14000     Room-1,Kitchen-1,Toilet-2
